@@ -1,4 +1,6 @@
-### Hi there 👋       <img width="600px" src="http://pm1.narvii.com/7203/63d47810cee493222276fb7ffc0ca796a3dcf847r1-1080-1455v2_uhq.jpg">
+### Hi there 👋 
+- 🔭 I’m currently working on ...
+      <img width="400px" src="http://pm1.narvii.com/7203/63d47810cee493222276fb7ffc0ca796a3dcf847r1-1080-1455v2_uhq.jpg">
 
 <!-- **Kubanychbek02/Kubanychbek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
