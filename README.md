@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Kubanychbek02/Kubanychbek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Kubanychbek02/Kubanychbek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--  <img width="300px" src="https://digitalmediawire.com/wp-content/uploads/2019/05/Discovery-Inc.-7.png">
+- ⚡ Fun fact: ... -->
+  <img width="600px" src="https://digitalmediawire.com/wp-content/uploads/2019/05/Discovery-Inc.-7.png">
