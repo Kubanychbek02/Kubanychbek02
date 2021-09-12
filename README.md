@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋       <img width="600px" src="http://pm1.narvii.com/7203/63d47810cee493222276fb7ffc0ca796a3dcf847r1-1080-1455v2_uhq.jpg">
 
 <!-- **Kubanychbek02/Kubanychbek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-  <img width="600px" src="https://digitalmediawire.com/wp-content/uploads/2019/05/Discovery-Inc.-7.png">
