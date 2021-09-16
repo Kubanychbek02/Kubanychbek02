@@ -1,5 +1,4 @@
 ### Hi there 👋 
-- 🔭 I’m currently working on ..
 
 <img src="https://github.com/Kubanychbek02/Kubanychbek02/blob/main/ass/Group%201.jpg">
 
